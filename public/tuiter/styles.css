@@ -1,0 +1,256 @@
+.wd-bg-color-black {
+  background: black;
+}
+
+.wd-rounded-corners-all-around {
+  border-radius: 10px;
+}
+
+.wd-border-gray {
+  border-color: rgb(47, 51, 54);
+}
+
+.wd-padded-top-bottom {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.wd-padded-left {
+  padding-left: 16px;
+}
+
+.wd-dimension-landscape {
+  width: 450px;
+}
+
+.wd-color-blue {
+  color: rgb(29, 161, 242);
+}
+
+.wd-color-white {
+  color: white;
+}
+
+.wd-bg-color-dark-gray {
+  background-color: #353839;
+}
+
+.wd-pos-absolute-12-right {
+  position: absolute;
+  right: 12px;
+}
+
+.wd-padding-fat {
+  padding: 16px;
+}
+
+.wd-border-mid {
+  border-width: 5px;
+}
+
+.wd-bottom-border-solid {
+  border-bottom: solid;
+}
+
+.wd-border-thin {
+  border-width: 4px;
+}
+
+.wd-fg-color-gray {
+  color: rgb(110, 118, 125);
+}
+
+.wd-nudge-down {
+  position: relative;
+  top: 12px;
+}
+
+.wd-height-tall {
+  height: 10px;
+}
+
+.wd-gray-border-color {
+  border-color: rgb(110, 118, 125);
+}
+
+.wd-font-size-std {
+  font-size: 13px;
+}
+
+.wd-font-size-larger {
+  font-size: 16px;
+}
+
+.wd-font-size-massive {
+  font-size: 25px;
+}
+
+.wd-height-thin {
+  height: 1px;
+}
+
+.wd-padded-top-left {
+  padding-top: 12px;
+  padding-left: 16px;
+}
+
+.wd-font-size-header {
+  font-size: 20px;
+}
+
+.wd-nudge-up {
+  position: relative;
+  bottom: 45px;
+}
+
+.wd-pos-absolute-12-right-up {
+  position: absolute;
+  right: 12px;
+  top: 40px;
+}
+
+.wd-circular-image {
+  border-radius: 50%;
+}
+
+.wd-nudge-up-less {
+  position: relative;
+  bottom: 35px;
+}
+
+.wd-12px-margins {
+  margin: 12px;
+}
+
+.wd-font-size-15 {
+  font-size: 15px;
+}
+
+.wd-nudge-up-lots {
+  position: relative;
+  bottom: 70px;
+}
+
+.wd-pos-absolute-12-right-up-lots {
+  position: absolute;
+  right: 12px;
+  top: 100px;
+}
+
+.wd-max-width {
+  width: 506px;
+}
+
+.wd-16-left-12-up-margins {
+  margin-right: 16px;
+  margin-bottom: 12px;
+}
+
+.wd-nudge-right {
+  position: relative;
+  left: 66px;
+}
+
+.wd-nudge-up-max {
+  position: relative;
+  bottom: 80px;
+}
+
+.wd-rounded-corners-top {
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+}
+
+.wd-margin-left {
+  margin-left: 60px;
+}
+
+.wd-border-solid {
+  border-style: solid;
+}
+
+.wd-border-very-thin {
+  border-width: 1px;
+}
+
+.wd-bold-font {
+  font-weight: bold;
+}
+
+.wd-rounded-corners-bottom {
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+
+.wd-image-width {
+  width: 504px;
+}
+
+.wd-nudge-up-lots-less {
+  position: relative;
+  bottom: 62px;
+}
+
+.wd-nudge-up-some {
+  position: relative;
+  bottom: 54px;
+}
+
+.wd-nudge-up-left {
+  position: relative;
+  bottom: 30px;
+  right: 250px;
+}
+
+.wd-max-height {
+  height: 115px;
+}
+
+.wd-move-significantly-up {
+  position: relative;
+  bottom: 100px;
+  right: 1px;
+}
+
+.wd-nudge-right-slightly {
+  position: relative;
+  left: 12px;
+}
+
+.wd-color-red {
+  color: #ff0000;
+}
+
+.wd-nudge-right-30 {
+  position: relative;
+  left: 30px;
+}
+
+.wd-nudge-right-100 {
+  position: relative;
+  left: 100px;
+}
+
+.wd-pos-absolute-main-title {
+  position: absolute;
+  left: 95px;
+  top: 510px;
+}
+
+.wd-move-border-up {
+  position: relative;
+  bottom: 92px;
+  right: 1px;
+}
+
+.wd-pos-absolute-sub-content {
+  position: absolute;
+  left: 95px;
+  top: 535px;
+}
+
+.wd-pos-absolute-rt-com {
+  position: absolute;
+  left: 105px;
+  top: 578px;
+}

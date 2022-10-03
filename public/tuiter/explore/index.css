@@ -1,0 +1,92 @@
+/* Currently not being used, refer to tuiter/styles.css instead*/
+
+.wd-bg-color-black {
+  background: black;
+}
+
+.wd-rounded-corners-all-around {
+  border-radius: 10px;
+}
+
+.wd-border-gray {
+  border-color: rgb(47, 51, 54);
+}
+
+.wd-padded-top-bottom {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.wd-padded-left {
+  padding-left: 16px;
+}
+
+.wd-dimension-landscape {
+  width: 450px;
+}
+
+.wd-color-blue {
+  color: rgb(29,161,242);
+}
+
+.wd-color-white {
+  color: white;
+}
+
+.wd-bg-color-dark-gray {
+  background-color: #353839;
+}
+
+.wd-pos-absolute-12-right {
+  position: absolute;
+  right: 12px;
+}
+
+.wd-padding-fat {
+  padding: 16px;
+}
+
+.wd-border-mid {
+  border-width: 5px;
+}
+
+.wd-bottom-border-solid {
+  border-bottom: solid;
+}
+
+.wd-border-thin {
+  border-width: 4px;
+}
+
+.wd-fg-color-gray {
+  color: rgb(110,118,125);
+}
+
+.wd-nudge-down {
+  position: relative;
+  top: 12px;
+}
+
+.wd-height-tall {
+  height: 10px;
+}
+
+.wd-gray-border-color {
+  border-color: rgb(110,118,125);
+}
+
+.wd-font-size-std {
+  font-size: 13px;
+}
+
+.wd-font-size-larger {
+  font-size: 16px;
+}
+
+.wd-font-size-massive {
+  font-size: 25px;
+}
+
+.wd-height-thin {
+  height: 1px;
+}
