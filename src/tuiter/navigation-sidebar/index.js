@@ -3,7 +3,7 @@ import {Link} from "react-router-dom";
 
 const NavigationSidebar = (
     {
-      active = 'explore'
+      active = 'tuiter'
     }
 ) => {
   return (
@@ -11,7 +11,7 @@ const NavigationSidebar = (
         <Link href="#" className="list-group-item">
           <span><i className="fab fa-twitter"/></span></Link>
         <Link to="/tuiter" href="#" className={`list-group-item
-                    ${active === 'home' ? 'active' : ''}`}>
+                    ${active === 'tuiter' ? 'active' : ''}`}>
           <span><i className="fas fa-home"/> </span>   Home
         </Link>
         <Link to="/tuiter/explore"  href="#" className={`list-group-item

@@ -1,7 +1,14 @@
-const Home = () => {
-  return (
-      <h3>Home Screen</h3>
-  )
-}
+import TuitList from "../tuits/tuits-list";
+import WhatsHappening from "./whats-happening";
 
-export default Home;
+const HomeComponent = () => {
+  return (
+      <>
+        <h4>Home</h4>
+        <WhatsHappening/>
+        <TuitList/>
+      </>
+  );
+};
+
+export default HomeComponent;
