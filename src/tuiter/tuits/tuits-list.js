@@ -9,8 +9,9 @@ const TuitList = () => {
   const dispatch = useDispatch();
   useEffect(() => {
     dispatch(findTuitsThunk())
+    //eslint-disable-next-line
   }, [])
-  return(
+  return (
       <ul className="list-group">
         {
           loading &&
@@ -21,7 +22,7 @@ const TuitList = () => {
         {
           tuits.map(tuit =>
               <TuitItem
-                  key={tuit._id} tuit={tuit}/> )
+                  key={tuit._id} tuit={tuit}/>)
         }
       </ul>
   );
